@@ -1,0 +1,15 @@
+{
+  "originHash" : "2917bbb0aca364e580114042ce784ab8583499fd46b3fa99ca36a2de11a50d02",
+  "pins" : [
+    {
+      "identity" : "swiftychrono",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StaySortedHQ/SwiftyChrono.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "03d9e43d2e8c7fd67760370a19a7ecaed204c1e9"
+      }
+    }
+  ],
+  "version" : 3
+}
